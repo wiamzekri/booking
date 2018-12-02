@@ -30,6 +30,7 @@
 
         Tip 2: you can also add an image using data-image tag
     -->
+    <p>tesst</p>
             <div class="logo">
                 <a href="#" class="simple-text">
                     Gérant d'hôtel
